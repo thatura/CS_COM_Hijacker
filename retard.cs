@@ -8,7 +8,7 @@ namespace Program
     class ComJack
     {
 
-        const string targ_ClassID = "{Target ID}";
+        const string targ_ClassID = "{XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}"";
 
         static void Main(string[] args)
         {
